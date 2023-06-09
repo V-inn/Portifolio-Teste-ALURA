@@ -103,7 +103,7 @@ body {
 
 .links__link:hover{
     background-color: var(--cor__quaternária);
-    padding: 20px 4px;
+    padding: 20px 0px;
 }
 
 .cabecalho__menu{
